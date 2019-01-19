@@ -26,7 +26,7 @@
 
 require_once "Mail.php";
 // Change this options:
-$username = 'user@gmail.com';
+$username = 'kyle.umbargere@gmail.com';
 $password = 'password';
 $smtpHost = 'ssl://smtp.gmail.com';
 $smtpPort = '465';
