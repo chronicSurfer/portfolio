@@ -1,0 +1,20 @@
+.btn-text:link, .btn-text:visited {
+    font-size: 1.2rem;
+    color: #434343;
+    display: inline-block;
+    text-decoration: none;
+    /* border-bottom: 1px solid #434343; */
+    padding: 1px;
+    transition: all 0.2s;
+}
+.btn-text:hover {
+    transform: translateY(-0.2rem);
+}
+.btn-text:active {
+    box-shadow: 0 .5rem 1rem rgba(#000, .15);
+    transform: translateY(0);
+}
+
+.text-color {
+    color: black;
+}
